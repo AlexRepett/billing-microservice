@@ -162,7 +162,7 @@ billing-microservice/
 
 ## 👩‍💻 Desarrollo
 
-**Creado por:** [Tu Nombre]  
+**Creado por:** Veronica Alexis Repetto Tinoco
 **Fecha de inicio:** Febrero 2026  
 **Objetivo:** Microservicio de facturación para integración con Vortx CRM
 

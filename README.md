@@ -41,7 +41,7 @@ Antes de clonar/ejecutar el proyecto, necesitas tener instalado:
 
 ### 1. Clonar el repositorio (cuando aplique)
 ```bash
-git clone [URL_DE_TU_REPO]
+git clone (https://github.com/AlexRepett/billing-microservice.git)
 cd billing-microservice
 ```
 
